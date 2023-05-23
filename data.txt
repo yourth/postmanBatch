@@ -1,0 +1,110 @@
+[
+  {
+    "name": "clinton",
+    "email": "clinton.jones@test.com",
+    "modelId": "1340",
+    "climateCreditAnalysis": "cca",
+    "version": 2,
+    "companyInfo": {
+      "companyId": "IQ343443"
+    },
+    "topDownParms": {
+      "applyTopDownIfApplicable": "true",
+      "strataValue": "Customer Durables",
+      "scoreOrPd": "888-"
+    },
+    "scenario": {
+      "scenarioType": "Integrated",
+      "validationDate": "05/03/2023",
+      "model": "Remind",
+      "integratedSenario": "Delayed Transistion"
+    },
+    "modelSpecificParams": {},
+    "financialStatements": {
+      "t": {},
+      "tMinusOne": {},
+      "tMinusTwo": {}
+    }
+  },
+  {
+    "name": "tom",
+    "email": "tom.smith@test.com",
+    "modelId": "1340",
+    "climateCreditAnalysis": "cca",
+    "version": 2,
+    "companyInfo": {
+      "companyId": "IQ343443"
+    },
+    "topDownParms": {
+      "applyTopDownIfApplicable": "true",
+      "strataValue": "Customer Durables",
+      "scoreOrPd": "888-"
+    },
+    "scenario": {
+      "scenarioType": "Integrated",
+      "validationDate": "05/03/2023",
+      "model": "Remind",
+      "integratedSenario": "Default"
+    },
+    "modelSpecificParams": {},
+    "financialStatements": {
+      "t": {},
+      "tMinusOne": {},
+      "tMinusTwo": {}
+    }
+  },
+  {
+    "name": "tommy",
+    "email": "tommy.jackson@test.com",
+    "modelId": "1340",
+    "climateCreditAnalysis": "cca",
+    "version": 2,
+    "companyInfo": {
+      "companyId": "IQ343443"
+    },
+    "topDownParms": {
+      "applyTopDownIfApplicable": "true",
+      "strataValue": "Customer Durables",
+      "scoreOrPd": "888-"
+    },
+    "scenario": {
+      "scenarioType": "Integrated",
+      "validationDate": "05/03/2023",
+      "model": "Remind",
+      "integratedSenario": "NA"
+    },
+    "modelSpecificParams": {},
+    "financialStatements": {
+      "t": {},
+      "tMinusOne": {},
+      "tMinusTwo": {}
+    }
+  },
+  {
+    "name": "nova",
+    "email": "nova.cat@test.com",
+    "modelId": "1340",
+    "climateCreditAnalysis": "cca",
+    "version": 2,
+    "companyInfo": {
+      "companyId": "IQ343443"
+    },
+    "topDownParms": {
+      "applyTopDownIfApplicable": "true",
+      "strataValue": "Customer Durables",
+      "scoreOrPd": "888-"
+    },
+    "scenario": {
+      "scenarioType": "Integrated",
+      "validationDate": "05/03/2023",
+      "model": "Remind",
+      "integratedSenario": "Immediate Transaction"
+    },
+    "modelSpecificParams": {},
+    "financialStatements": {
+      "t": {},
+      "tMinusOne": {},
+      "tMinusTwo": {}
+    }
+  }
+]

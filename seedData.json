@@ -1,0 +1,63 @@
+[
+{
+    "name": "clinton",
+    "email": "clinton.jones@test.com",
+    "modelId": 1340,
+    "climateCreditAnalysis": "cca",
+    "version": 2,
+    "companyId": "IQ343443",
+    "applyTopDownIfApplicable": true,
+    "strataValue": "Customer Durables",
+    "scoreOrPd": "888-",
+    "scenarioType": "Integrated",
+    "validationDate": "05/03/2023",
+    "model": "Remind", 
+    "integratedSenario": "Delayed Transistion"
+},
+{
+    "name": "tom",
+    "email": "tom.smith@test.com",
+    "modelId": 1340,
+    "climateCreditAnalysis": "cca",
+    "version": 2,
+    "companyId": "IQ343443",
+    "applyTopDownIfApplicable": true,
+    "strataValue": "Customer Durables",
+    "scoreOrPd": "888-", 
+    "scenarioType": "Integrated",
+    "validationDate": "05/03/2023",
+    "model": "Remind", 
+    "integratedSenario": "Default"
+},
+{
+    "name": "tommy",
+    "email": "tommy.jackson@test.com",
+    "modelId": 1340,
+    "climateCreditAnalysis": "cca",
+    "version": 2,
+    "companyId": "IQ343443",
+    "applyTopDownIfApplicable": true,
+    "strataValue": "Customer Durables",
+    "scoreOrPd": "888-", 
+    "scenarioType": "Integrated",
+    "validationDate": "05/03/2023",
+    "model": "Remind", 
+    "integratedSenario": "NA"
+},
+{
+    "name": "nova",
+    "email": "nova.cat@test.com",
+    "modelId": 1340,
+    "climateCreditAnalysis": "cca",
+    "version": 2,
+    "companyId": "IQ343443",
+    "applyTopDownIfApplicable": true,
+    "strataValue": "Customer Durables",
+    "scoreOrPd": "888-", 
+    "scenarioType": "Integrated",
+    "validationDate": "05/03/2023",
+    "model": "Remind", 
+    "integratedSenario": "Immediate Transaction"
+}
+]
+

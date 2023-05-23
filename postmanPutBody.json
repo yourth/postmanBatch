@@ -1,0 +1,28 @@
+{
+    "name": "{{name}}",
+    "email": "{{email}}",
+    "modelId": "{{modelId}}",
+    "climateCreditAnalysis": "{{climateCreditAnalysis}}",
+    "version": {{version}},
+    "companyInfo": {
+        "companyId": "{{companyId}}"
+    },
+    "topDownParms": {
+        "applyTopDownIfApplicable": "{{applyTopDownIfApplicable}}",
+        "strataValue": "{{strataValue}}",
+        "scoreOrPd": "{{scoreOrPd}}" 
+    },
+    "scenario": {
+        "scenarioType": "{{scenarioType}}",
+        "validationDate": "{{validationDate}}",
+        "model": "{{model}}", 
+        "integratedSenario": "{{integratedSenario}}"
+    },
+    "modelSpecificParams": {},
+    "financialStatements": {
+        "t": {},
+        "tMinusOne": {},
+        "tMinusTwo": {}
+    }
+}
+
